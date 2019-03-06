@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 5c797f90abe8275489c57a3d8a59108d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box002
+    100004: Box005
+    100006: Box036
+    100008: Box039
+    100010: Box048
+    100012: Box054
+    100014: Box173
+    100016: Box175
+    100018: Box177
+    100020: Box178
+    100022: Box179
+    100024: Box180
+    100026: Group1069
+    100028: Object001
+    100030: Object002
+    100032: Object003
+    100034: Object004
+    100036: Object005
+    100038: Object006
+    100040: Object007
+    100042: Object008
+    100044: Object009
+    100046: Pyramid001
+    100048: Pyramid002
+    100050: Pyramid003
+    100052: Pyramid004
+    100054: Pyramid005
+    100056: Pyramid006
+    100058: Pyramid007
+    100060: Pyramid008
+    400000: //RootNode
+    400002: Box002
+    400004: Box005
+    400006: Box036
+    400008: Box039
+    400010: Box048
+    400012: Box054
+    400014: Box173
+    400016: Box175
+    400018: Box177
+    400020: Box178
+    400022: Box179
+    400024: Box180
+    400026: Group1069
+    400028: Object001
+    400030: Object002
+    400032: Object003
+    400034: Object004
+    400036: Object005
+    400038: Object006
+    400040: Object007
+    400042: Object008
+    400044: Object009
+    400046: Pyramid001
+    400048: Pyramid002
+    400050: Pyramid003
+    400052: Pyramid004
+    400054: Pyramid005
+    400056: Pyramid006
+    400058: Pyramid007
+    400060: Pyramid008
+    2100000: default
+    2100002: Alfinosa
+    2100004: Alfinosa1
+    2100006: 12 - VRay Material
+    2100008: Alfinosa2
+    2300000: Box002
+    2300002: Box005
+    2300004: Box036
+    2300006: Box039
+    2300008: Box048
+    2300010: Box054
+    2300012: Box173
+    2300014: Box175
+    2300016: Box177
+    2300018: Box178
+    2300020: Box179
+    2300022: Box180
+    2300024: Group1069
+    2300026: Object001
+    2300028: Object002
+    2300030: Object003
+    2300032: Object004
+    2300034: Object005
+    2300036: Object006
+    2300038: Object007
+    2300040: Object008
+    2300042: Object009
+    2300044: Pyramid001
+    2300046: Pyramid002
+    2300048: Pyramid003
+    2300050: Pyramid004
+    2300052: Pyramid005
+    2300054: Pyramid006
+    2300056: Pyramid007
+    2300058: Pyramid008
+    3300000: Box002
+    3300002: Box005
+    3300004: Box036
+    3300006: Box039
+    3300008: Box048
+    3300010: Box054
+    3300012: Box173
+    3300014: Box175
+    3300016: Box177
+    3300018: Box178
+    3300020: Box179
+    3300022: Box180
+    3300024: Group1069
+    3300026: Object001
+    3300028: Object002
+    3300030: Object003
+    3300032: Object004
+    3300034: Object005
+    3300036: Object006
+    3300038: Object007
+    3300040: Object008
+    3300042: Object009
+    3300044: Pyramid001
+    3300046: Pyramid002
+    3300048: Pyramid003
+    3300050: Pyramid004
+    3300052: Pyramid005
+    3300054: Pyramid006
+    3300056: Pyramid007
+    3300058: Pyramid008
+    4300000: Group1069
+    4300002: Object001
+    4300004: Object002
+    4300006: Object003
+    4300008: Object004
+    4300010: Object005
+    4300012: Object006
+    4300014: Object007
+    4300016: Object008
+    4300018: Object009
+    4300020: Pyramid008
+    4300022: Pyramid007
+    4300024: Pyramid006
+    4300026: Pyramid005
+    4300028: Pyramid004
+    4300030: Pyramid003
+    4300032: Pyramid002
+    4300034: Pyramid001
+    4300036: Box179
+    4300038: Box178
+    4300040: Box177
+    4300042: Box175
+    4300044: Box173
+    4300046: Box054
+    4300048: Box005
+    4300050: Box002
+    4300052: Box048
+    4300054: Box039
+    4300056: Box036
+    4300058: Box180
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - VRay Material
+    second: {fileID: 2100000, guid: 809925f79950eea79a9276cd2c257a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alfinosa
+    second: {fileID: 2100000, guid: 2ace75e1c48182050ad5876387a25723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alfinosa1
+    second: {fileID: 2100000, guid: d4cc6bc2ab054184c98ab9e2e6b16c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alfinosa2
+    second: {fileID: 2100000, guid: b4d34bdff53b335409d3e659556456ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 9b68ad924d812e34887d0187eeb626b5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
