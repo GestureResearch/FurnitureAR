@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ChangeModel : MonoBehaviour
 {
-    public GameObject next, prev, cube, slider;
+    public GameObject next, prev, it, slider;
     
     static int current = 0;
     
@@ -22,18 +22,18 @@ public class ChangeModel : MonoBehaviour
         SwitchModel();        
     }
     
-    public void ScaleCube(float factor)
+    public void ScaleObject(float factor)
     {
-        cube.transform.localScale = new Vector3(factor, factor, factor);;    
+        it.transform.GetChild(current).localScale = new Vector3(factor, factor, factor);;    
     }
     
     void SwitchModel()
     {
         for(int i = 0; i < 4; i++)
         {                               
-            cube.transform.GetChild(i).gameObject.SetActive(false);
+            it.transform.GetChild(i).gameObject.SetActive(false);
             if(i == current)
-                cube.transform.GetChild(i).gameObject.SetActive(true);        
+                it.transform.GetChild(i).gameObject.SetActive(true);        
         }     
     }
 }
